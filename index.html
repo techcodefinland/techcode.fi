@@ -1,58 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Techcode Finland</title>
-  <meta name="description" content="Techcode Finland">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-</head>
-<body>
-  <nav class="navbar navbar-default navbar-static-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Techcode Finland</title>
+    <meta name="description" content="Techcode Finland">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/main.min.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+  </head>
+  <body>
+    <nav class="navbar navbar--translucent navbar-default navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
           <span class="sr-only">Toggle navigation</span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="#">Techcode Finland</a>
+          </button>
+          <a class="navbar-brand" href="#">Techcode Finland</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Events</a></li>
+            <li><a href="#team">Team</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div>
       </div>
-      <div id="navbar" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav navbar-right">
-          <li class="active"><a href="#">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#contact">Events</a></li>
-          <li><a href="#team">Team</a></li>
-          <li><a href="#contact">Contact</a></li>
+    </nav>
+    <section class="hero">
+      <div class="container">
+        <div class="hero__motto">
+          Access the Chinese market via Helsinki
+        </div>
+        <ul class="social-networks social-networks--hero">
+          <li class="social-networks__item"><a class="social-networks__link social-networks__link--facebook" href="https://www.facebook.com/techcodefinland" title="Toughbyte on Facebook" target="_blank">Facebook</a></li>
+          <li class="social-networks__item"><a class="social-networks__link social-networks__link--twitter" href="https://twitter.com/techcodefinland" title="Toughbyte on Twitter" target="_blank">Twitter</a></li>
+          <li class="social-networks__item"><a class="social-networks__link social-networks__link--linkedin" href="https://www.linkedin.com/company/techcodefinland" title="Toughbyte on LinkedIn" target="_blank">LinkedIn</a></li>
         </ul>
+        <p class="hero__motto">
+          <a class="btn btn-lg btn-primary" href="#" role="button">Apply Now</a>
+        </p>
       </div>
-    </div>
-  </nav>
-
-
-  <div class="container">
-    <div class="jumbotron">
-      <h3>Access the Chinese market via Helsinki</h3>
-      <p>
-        <a class="btn btn-lg btn-primary" href="#" role="button">Apply Now</a>
-      </p>
-    </div>
-
-  </div>
-
-  <script>
+    </section>
+    <section class="section section--about">
+      <div class="container clearfix">
+        <div class="about__primary">
+          <h1 class="heading">About Techcode</h1>
+          <p class="paragraph paragraph--lead">
+            We support you on your way to China! Techcode Finland is building community for ambitious technology companies that are looking east, a “Chinatown” of Helsinki! We provide a supportive and open environment for innovative tech companies and service providers that are doing or exploring possibilities to do business in China. Our incubator and co-working space is centrally located in Ruoholahti in Helsinki, just next to the metro station.
+          </p>
+        </div>
+        <aside class="about__secondary">
+          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftechcodefinland%2F&tabs=timeline&width=400&height=380&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" width="400" height="380" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+        </aside>
+      </div>
+    </section>
+    <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
     ga('create', 'UA-99672354-1', 'auto');
     ga('send', 'pageview');
-
-  </script>
-</body>
+    </script>
+  </body>
 </html>
