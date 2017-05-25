@@ -1,4 +1,24 @@
 .navbar-default {
-  background-color: rgb(25, 23, 23);
+  background-color: #ffffff;
   border: 0;
+}
+
+.navbar-brand img {
+  width: 128px;
+  height: 36px;
+  margin-top: -10px;
+}
+
+.hero {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(/images/hero.jpg) no-repeat center center;
+  background-size: cover;
+  background-position: 0 -300px;
+}
+
+.shadow {
+  text-shadow: rgb(0, 0, 0) 0px 0px 20px;
+}
+
+.social-networks__link {
+  opacity: 1.0;
 }
