@@ -3,16 +3,23 @@
   border: 0;
 }
 
+.navbar-nav {
+  background-color: #ffffff;
+}
+
 .navbar-brand img {
   width: 128px;
   height: 36px;
   margin-top: -10px;
 }
 
+#navbar li {
+  text-align: center;
+}
+
 .hero {
   background: url(/images/hero.jpg) no-repeat center center;
   background-size: cover;
-  background-position: 0 -300px;
 }
 
 .shadow {
