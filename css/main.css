@@ -29,3 +29,18 @@
 .social-networks__link {
   opacity: 1.0;
 }
+
+.footer__copyright {
+  float: left;
+}
+
+.footer__nav {
+  float: left;
+  clear: left;
+}
+
+#acknowledgement {
+  margin-top: 10px;
+  float: right;
+  color: #737e88;
+}
