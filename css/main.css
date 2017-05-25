@@ -13,6 +13,10 @@
   margin-top: -10px;
 }
 
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+  margin-right: 0;
+}
+
 #navbar li {
   text-align: center;
 }
