@@ -22,7 +22,7 @@
 }
 
 .hero {
-  background: url(/images/hero.jpg) no-repeat center center;
+  background: url(/i/hero.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -30,8 +30,16 @@
   text-shadow: rgb(0, 0, 0) 0px 0px 20px;
 }
 
+#team ul {
+  list-style: none;
+}
+
 .social-networks__link {
   opacity: 1.0;
+}
+
+.footer {
+  background-color: #2b2e34;
 }
 
 .footer__copyright {
