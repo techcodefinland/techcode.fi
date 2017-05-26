@@ -30,8 +30,41 @@
   text-shadow: rgb(0, 0, 0) 0px 0px 20px;
 }
 
+h1 {
+  text-align: center;
+}
+
+.p--lead {
+  font-size: 18px !important;
+}
+
+.section--about h1 {
+  text-align: left;
+}
+
+.about__tertiary {
+  float: left;
+  width: 100%;
+}
+
+.about__tertiary div {
+  text-align: center;
+}
+
+.section--about, .section--events {
+  font-size: 18px;
+}
+
 #team ul {
   list-style: none;
+}
+
+#team h3 {
+  font-size: 18px;
+}
+
+.team__member {
+  margin: 0px;
 }
 
 .social-networks__link {
