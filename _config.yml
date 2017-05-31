@@ -1,0 +1,9 @@
+# Site settings
+title: Techcode Finland
+description: Techcode Finland
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM

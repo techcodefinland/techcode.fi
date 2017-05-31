@@ -1,0 +1,1 @@
+- June 3-4th 2017 09:00: [Digital Prototyping Weekend](https://www.eventbrite.com/e/school-of-startups-2017-digital-prototyping-weekend-tickets-34313577835) organized by [The Shortcut](http://theshortcut.org/) and [Toughbyte](http://toughbyte.com)
