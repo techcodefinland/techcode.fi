@@ -1,90 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Techcode Finland</title>
-    <meta name="description" content="Techcode Finland">
-    <link rel="icon" type="image/x-icon" href="../favicon.ico">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../css/main.min.css">
-    <link rel="stylesheet" type="text/css" href="../css/main.css">
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  </head>
-  <body>
-    <nav class="navbar navbar--translucent navbar-default navbar-static-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          </button>
-          <div class="navbar-brand">
-            <img src="../i/logo.png" alt="Techcode Finland"/>
-          </div>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#about">About</a></li>
-            <li><a href="#events">Events</a></li>
-            <li><a href="#team">Team</a></li>
-            <li><a href="#partners">Partners</a></li>
-            <li><a href="#contact">Contact</a></li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-    <section class="hero">
-      <div class="container">
-        <div class="hero__motto shadow">
-          Access the Chinese market via Helsinki
-        </div>
-        <ul class="social-networks social-networks--hero shadow">
-          <li class="social-networks__item"><a class="social-networks__link social-networks__link--facebook" href="https://www.facebook.com/techcodefinland" title="Toughbyte on Facebook" target="_blank">Facebook</a></li>
-          <li class="social-networks__item"><a class="social-networks__link social-networks__link--twitter" href="https://twitter.com/techcodefin" title="Toughbyte on Twitter" target="_blank">Twitter</a></li>
-          <li class="social-networks__item"><a class="social-networks__link social-networks__link--linkedin" href="https://www.linkedin.com/search/results/people/?facetGeoRegion=%5B%22fi%3A0%22%5D&keywords=techcode%20finland&origin=FACETED_SEARCH" title="Toughbyte on LinkedIn" target="_blank">LinkedIn</a></li>
-        </ul>
-        <p class="hero__motto">
-          <a class="btn btn-lg btn-primary" href="mailt:finland@techcode.com?subject=Applying%20to%20Techcode" role="button">Apply Now</a>
-        </p>
-      </div>
-    </section>
-    <section id="about" class="section section--about">
-      <div class="container clearfix">
-        <div class="about__primary">
-          <h1 class="heading">About Techcode</h1>
-          {% capture about %}{% include about.md %}{% endcapture %}
-          {{ about | markdownify }}        </div>
-        <aside class="about__secondary">
-          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftechcodefinland%2F&tabs=timeline&width=400&height=380&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&locale=en_US&width=400&height=520" width="400" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-        </aside>
-      </div>
-    </section>
-    <section id="events" class="section section--events">
-      <div class="container">
-        <h1 class="heading">Events</h1>
-        {% capture events %}{% include events.md %}{% endcapture %}
-        {{ events | markdownify }}
-      </div>
-    </section>
-    <section id="team" class="section section--team">
-      <div class="container">
-        <h1 class="heading">Team</h1>
-        <ul>
-          {% include person.html name="Michael Haralson" title="Deputy GM" image="michael" email="michael.haralson@techcode.com" linkedin="https://www.linkedin.com/in/michael-haralson-3b57583/" %}
-          {% include person.html name="Huageng Chi" title="Project Manager" image="huageng" email="huageng.chi@techcode.com" linkedin="https://www.linkedin.com/in/huagengchi" %}
-          {% include person.html name="Eva Cao" title="Operations" image="eva" email="eva.cao@techcode.com" linkedin="https://www.linkedin.com/in/ling-cao-057a339/" %}
-          {% include person.html name="Juho Pirinen" title="Bizdev, Partnerships" image="juho" email="juho.pirinen@techcode.com" linkedin="https://www.linkedin.com/in/juhopirinen/" %}
-          {% include person.html name="Li Yang" title="Project Manager" image="li" email="li.yang@techcode.com" linkedin="https://www.linkedin.com/in/yangll/" %}
-          {% include person.html name="Saila Sinokki" title="Office Assistant" image="saila" email="saila.sinokki@techcode.com" linkedin="https://www.linkedin.com/in/saila-sinokki-1190b381/" %}
-        </ul>
-      </div>
-    </section>
+<section class="hero">
+  <div class="container">
+    <div class="hero__motto shadow">
+      Access the Chinese market via Helsinki
+    </div>
+    <ul class="social-networks social-networks--hero shadow">
+      <li class="social-networks__item"><a class="social-networks__link social-networks__link--facebook" href="https://www.facebook.com/techcodefinland" title="Toughbyte on Facebook" target="_blank">Facebook</a></li>
+      <li class="social-networks__item"><a class="social-networks__link social-networks__link--twitter" href="https://twitter.com/techcodefin" title="Toughbyte on Twitter" target="_blank">Twitter</a></li>
+      <li class="social-networks__item"><a class="social-networks__link social-networks__link--linkedin" href="https://www.linkedin.com/search/results/people/?facetGeoRegion=%5B%22fi%3A0%22%5D&keywords=techcode%20finland&origin=FACETED_SEARCH" title="Toughbyte on LinkedIn" target="_blank">LinkedIn</a></li>
+    </ul>
+    <p class="hero__motto">
+      <a class="btn btn-lg btn-primary" href="mailt:finland@techcode.com?subject=Applying%20to%20Techcode" role="button">Apply Now</a>
+    </p>
+  </div>
+</section>
+<section id="about" class="section section--about">
+  <div class="container clearfix">
+    <div class="about__primary">
+      <h1 class="heading">About Techcode</h1>
+      {% capture about %}{% include about.md %}{% endcapture %}
+      {{ about | markdownify }}        </div>
+    <aside class="about__secondary">
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftechcodefinland%2F&tabs=timeline&width=400&height=380&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&locale=en_US&width=400&height=520" width="400" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    </aside>
+  </div>
+</section>
+<section id="events" class="section section--events">
+  <div class="container">
+    <h1 class="heading">Events</h1>
+    {% capture events %}{% include events.md %}{% endcapture %}
+    {{ events | markdownify }}
+  </div>
+</section>
+<section id="team" class="section section--team">
+  <div class="container">
+    <h1 class="heading">Team</h1>
+    <ul>
+      {% include person.html name="Michael Haralson" title="Deputy GM" image="michael" email="michael.haralson@techcode.com" linkedin="https://www.linkedin.com/in/michael-haralson-3b57583/" %}
+      {% include person.html name="Huageng Chi" title="Project Manager" image="huageng" email="huageng.chi@techcode.com" linkedin="https://www.linkedin.com/in/huagengchi" %}
+      {% include person.html name="Eva Cao" title="Operations" image="eva" email="eva.cao@techcode.com" linkedin="https://www.linkedin.com/in/ling-cao-057a339/" %}
+      {% include person.html name="Juho Pirinen" title="Bizdev, Partnerships" image="juho" email="juho.pirinen@techcode.com" linkedin="https://www.linkedin.com/in/juhopirinen/" %}
+      {% include person.html name="Li Yang" title="Project Manager" image="li" email="li.yang@techcode.com" linkedin="https://www.linkedin.com/in/yangll/" %}
+      {% include person.html name="Saila Sinokki" title="Office Assistant" image="saila" email="saila.sinokki@techcode.com" linkedin="https://www.linkedin.com/in/saila-sinokki-1190b381/" %}
+    </ul>
+  </div>
+</section>
 
-    <section id="partners" class="section section--activity">
+<section id="partners" class="section section--activity">
 
   <div class="container">
     <h1 class="heading">Partners</h1>
@@ -117,67 +78,38 @@
 
   </div> <!-- /container -->
 </section>
-    <section id="contact" class="section section--contact">
-      <div class="container">
-      <h1 class="heading contact__heading">Contact</h1>
-        <div id="helsinki" style="display: block;">
-          <div class="clearfix">
-            <div class="contact-info" itemscope="" itemtype="http://schema.org/Organization">
-              <div class="contact-info__group">
-                <div itemprop="name"><strong>Techcode Finland</strong></div>
-                <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-                  <span itemprop="streetAddress">Porkkalankatu 20A, 5th floor</span><br>
-                  <span itemprop="postalCode">00180</span> <span itemprop="addressLocality">Helsinki</span><br>
-                  <span itemprop="addressCountry">Finland</span><br>
-                </div>
-              </div>
-
-              <div class="contact-info__group">
-                <a href="tel:+358405327577"><span itemprop="telephone">+358 40 5327577</span></a>
-              </div>
-
-              <div class="contact-info__group">
-                <a href="mailto:finland@techcode.com"><span itemprop="email">finland@techcode.com</span></a>
-              </div>
-
-              <div class="contact-info__details">
-                <p class="paragraph">Company ID: FI27801828</p>
-              </div>
-            </div> <!-- /contact-info -->
-
-            <div class="contact-map">
-              <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.9971232066182!2d24.91023205162837!3d60.16422648187021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920a49a821cf9b%3A0x4e0e092da509313f!2sPorkkalankatu+20a%2C+00180+Helsinki%2C+Finland!5e0!3m2!1sen!2suk!4v1495721305365"></iframe>
+<section id="contact" class="section section--contact">
+  <div class="container">
+    <h1 class="heading contact__heading">Contact</h1>
+    <div id="helsinki" style="display: block;">
+      <div class="clearfix">
+        <div class="contact-info" itemscope="" itemtype="http://schema.org/Organization">
+          <div class="contact-info__group">
+            <div itemprop="name"><strong>Techcode Finland</strong></div>
+            <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+              <span itemprop="streetAddress">Porkkalankatu 20A, 5th floor</span><br>
+              <span itemprop="postalCode">00180</span> <span itemprop="addressLocality">Helsinki</span><br>
+              <span itemprop="addressCountry">Finland</span><br>
             </div>
-          </div> <!-- /clearfix -->
+          </div>
+
+          <div class="contact-info__group">
+            <a href="tel:+358405327577"><span itemprop="telephone">+358 40 5327577</span></a>
+          </div>
+
+          <div class="contact-info__group">
+            <a href="mailto:finland@techcode.com"><span itemprop="email">finland@techcode.com</span></a>
+          </div>
+
+          <div class="contact-info__details">
+            <p class="paragraph">Company ID: FI27801828</p>
+          </div>
+        </div> <!-- /contact-info -->
+
+        <div class="contact-map">
+          <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.9971232066182!2d24.91023205162837!3d60.16422648187021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920a49a821cf9b%3A0x4e0e092da509313f!2sPorkkalankatu+20a%2C+00180+Helsinki%2C+Finland!5e0!3m2!1sen!2suk!4v1495721305365"></iframe>
         </div>
-      </div> <!-- /container -->
-    </section>
-    <footer class="footer" role="contentinfo">
-      <div class="container">
-        <span class="footer__copyright">© 2017 Techcode Finland</span>
-
-        <ul class="footer__nav">
-          <li class="footer__nav-item"><a href="/#about" data-scroll="">About</a></li>
-          <li class="footer__nav-item"><a href="/#events" data-scroll="">Events</a></li>
-          <li class="footer__nav-item"><a href="/#team" data-scroll="">Team</a></li>
-          <li class="footer__nav-item"><a href="/#partners" data-scroll="">Partners</a></li>
-          <li class="footer__nav-item"><a href="/#contact" data-scroll="">Contact</a></li>
-          <li class="footer__nav-item"><a href="http://www.techcode.com/" data-scroll="">Techcode Global</a></li>
-        </ul>
-
-        <div id="acknowledgement">
-          developed by <a href="http://toughbyte.com">Toughbyte</a>
-        </div>
-
-      </div> <!-- /container -->
-    </footer>
-    <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-99672354-1', 'auto');
-    ga('send', 'pageview');
-    </script>
-  </body>
-</html>
+      </div> <!-- /clearfix -->
+    </div>
+  </div> <!-- /container -->
+</section>
