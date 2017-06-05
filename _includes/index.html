@@ -24,6 +24,13 @@
     </aside>
   </div>
 </section>
+<section id="program" class="section section--program">
+  <div class="container">
+    <h1 class="heading">China EyeOpener Program</h1>
+    {% capture program %}{% include program.md %}{% endcapture %}
+    {{ program | markdownify }}
+  </div>
+</section>
 <section id="events" class="section section--events">
   <div class="container">
     <h1 class="heading">Events</h1>
