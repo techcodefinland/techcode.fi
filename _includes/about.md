@@ -7,3 +7,5 @@ We support you on your way to China! Techcode Finland is building community for 
 *   Partner network (legal issues, IP issues, recruiting etc.)
 
 We are now recruiting teams to our space. [**Apply now**](mailto:finland@techcode.com?subject=Applying%20to%20Techcode)!
+
+Application period for [China Eye Opener program](#program) opens June 7th!
