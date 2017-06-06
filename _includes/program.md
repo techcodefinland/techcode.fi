@@ -17,7 +17,7 @@ Teams will also have monthly telcos / meetings with aasigned mentor in China.
 
 Apply through the link below and we'll be in touch and provide you more details!
 
-[***Apply now***](https://juhopirinen.typeform.com/to/kQ9qGD)
+[**Apply now**](https://juhopirinen.typeform.com/to/kQ9qGD)
 
 Also join our [China breakfast](https://www.eventbrite.com/e/techcode-startnorth-china-breakfast-tickets-34651460451?aff=eac2) on June 13th and hear more about the program.
 
