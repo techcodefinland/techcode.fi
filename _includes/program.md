@@ -11,8 +11,10 @@ Program includes workstations (for 4 persons) at our incubator in Ruoholahti for
 3. Manufacturing in China
 4. Investment / Funding options in China
 5. Starting business in China / Soft landing to China´
-6. Trip to China (companies pays own expenses) (Seeing is believing! Meeting partners, investors, customers etc.)
+6. Trip to China (Seeing is believing! Meeting partners, investors, customers etc.)
 
-Application period opens June 7th and closes June 30th.
+Teams will also have monthly telcos / meetings with mentor in China.
+
+Application period opens June 7th. Stay tuned!
 
 Questions? Contact <mailto:finland@techcode.com>
