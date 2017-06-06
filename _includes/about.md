@@ -8,4 +8,4 @@ We support you on your way to China! Techcode Finland is building community for 
 
 We are now recruiting teams to our space. [**Apply now**](mailto:finland@techcode.com?subject=Applying%20to%20Techcode)!
 
-If you are interested in entering China, also check our [China Eye Opener program](#program)!
+If you are interested or entering Chinese market, also check our [China Eye Opener program](#program)!
