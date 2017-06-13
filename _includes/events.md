@@ -1,3 +1,4 @@
  - June 8th 2017 16:00: [Expanding to China? How to tap into the Chinese market for growth](https://www.eventbrite.com/e/expanding-to-china-how-to-tap-into-the-chinese-market-for-growth-tickets-34423482563?aff=es2) by [#digirocstars](http://www.digirocstars.com)
  - June 13th 2017 09:00-11:30 [China Breakfast](https://www.eventbrite.com/e/techcode-startnorth-china-breakfast-tickets-34651460451?aff=eac2) organized by [Techcode](http://www.techcode.fi) and [StartNorth](http://www.startNorth.com)
  - June 14th 2017 10:00-12:00 [Collaborative Healthcare Ecosystem Infosession](https://www.eventbrite.com/e/collaborative-healthcare-ecosystem-infosession-tickets-34973011218) organized by [Techcode](http://www.techcode.fi), [Lenovo](http://www.lenovo.com), [Sitra](http://www.sitra.fi) and [Helsinki Business Hub](www.hbh.fi)
+ - June 27th 2017 15:00- China EyeOpener program launch event - more info coming soon!
