@@ -6,6 +6,7 @@ Whether you already have customers in China or if you are just thinking about it
 
 Program includes workstations (for 4 persons) at our incubator in Ruoholahti for 6 months, coach for your team and workshops / lectures that enable you to start creating your China strategy.
 
+----
 Content:
 
 Win in China - 6 part seminar series by Cheung Kong Graduate School of Business school assistan dean Bo Ji with following topics:
@@ -28,7 +29,7 @@ Starting business in China / Soft Landing to China
 Trip to China (attendees cover their own expenses)
 -Seeing is believing!
 -Meeting partners, investors, customers etc.
-
+---
 
 Apply through the link below and we'll be in touch and provide you more details!
 
