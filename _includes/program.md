@@ -25,9 +25,7 @@ Manufacturing in China
 
 Starting business in China / Soft Landing to China
 
-Trip to China (attendees cover their own expenses)
-* Seeing is believing!
-* Meeting partners, investors, customers etc.
+Trip to China (Seeing is believing! Meeting partners, investors, customers etc. Attendees cover their own costs.)
 
 ---
 
