@@ -29,6 +29,7 @@ Starting business in China / Soft Landing to China
 Trip to China (attendees cover their own expenses)
 -Seeing is believing!
 -Meeting partners, investors, customers etc.
+
 ---
 
 Apply through the link below and we'll be in touch and provide you more details!
