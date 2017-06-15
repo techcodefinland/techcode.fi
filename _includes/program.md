@@ -21,7 +21,7 @@ Investment / Funding options in China (Lecture and 2 pitching events to Chinese 
 
 IPR & how to protect your business when expanding to China
 
-Manufacturing in China
+Product and supply chain localization
 
 Starting business in China / Soft Landing to China
 
