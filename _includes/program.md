@@ -29,7 +29,9 @@ Trip to China (Seeing is believing! Meeting partners, investors, customers etc. 
 
 ---
 
-Apply through the link below and we'll be in touch and provide you more details!
+More detailed program description can be [downloaded from here!](https://1drv.ms/b/s!Anqxi2ndXHfWkAKDGqUxkYVjIqo7)
+
+Apply to program through the link below and we will be in touch.
 
 [**Apply now for China EyeOpener program**](https://juhopirinen.typeform.com/to/kQ9qGD)
 
