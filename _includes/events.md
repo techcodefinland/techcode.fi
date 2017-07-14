@@ -1,1 +1,1 @@
- - June 27th 2017 15:00- [Do you know how to win in China? -  China EyeOpener program launch event](https://www.eventbrite.com/e/do-you-know-how-to-win-in-china-tickets-35373917339)
+ - July 21st 2017 14:30-16:00- [Meet business Delegation from Shanghai](https://www.eventbrite.com/e/shanghai-pudong-new-area-delegation-techcode-tickets-36220555657?aff=erelexpmlt)
