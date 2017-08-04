@@ -1,1 +1,1 @@
- - July 21st 2017 14:30-16:00- [Meet business Delegation from Shanghai](https://www.eventbrite.com/e/shanghai-pudong-new-area-delegation-techcode-tickets-36220555657?aff=erelexpmlt)
+ - August 16th 2017 14:00-16:00- [HW and Manufacturing EyeOpener](https://www.eventbrite.com/e/hw-and-manufacturing-eyeopener-tickets-36741654277) by [Techcode Finland](http://techcode.fi), [Hardware Startup Finland](http://www.hardwarestartup.fi/) and [YOKA](http://www.yoka.fi/english.html)
