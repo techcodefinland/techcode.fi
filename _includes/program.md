@@ -9,7 +9,7 @@ Program includes workstations (for 4 persons) at our incubator in Ruoholahti for
 ----
 Content:
 
-Win in China - 6 part seminar series by Cheung Kong Graduate School of Business school assistan dean Bo Ji with following topics:
+6 part seminar series by Cheung Kong Graduate School of Business school assistan dean Bo Ji with following topics:
 *  Cross Cultural Management in Chinese Context: How to turn differences into advantages
 *  Chinese Consumer Behavior & Business Opportunities: Differences, Changes, Trend and Implications
 *  Digital Strategy in China: Social Media Marketing Strategies
@@ -29,12 +29,10 @@ Trip to China (Seeing is believing! Meeting partners, investors, customers etc. 
 
 ---
 
+Program starts September 25th 2017.
+
 More detailed program description can be [downloaded from here!](https://1drv.ms/b/s!Anqxi2ndXHfWkAKDGqUxkYVjIqo7)
 
-Apply to program through the link below and we will be in touch.
+Interested in joining the program or to get more information? Visit us or [join our events to hear more](http://techcode.fi/#events)
 
-[**Apply now for China EyeOpener program**](https://juhopirinen.typeform.com/to/kQ9qGD)
-
-Visit us or [join our events to hear more](http://techcode.fi/#events)
-
-Questions? Contact <mailto:finland@techcode.com>
+ <mailto:finland@techcode.com>
