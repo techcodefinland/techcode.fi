@@ -35,6 +35,6 @@ Apply to program through the link below and we will be in touch.
 
 [**Apply now for China EyeOpener program**](https://juhopirinen.typeform.com/to/kQ9qGD)
 
-Join the program launch event on 27th of June afternoon. [More info and registration](https://www.eventbrite.com/e/do-you-know-how-to-win-in-china-tickets-35373917339)
+Visit us or [join our events to hear more](http://techcode.fi/#events)
 
 Questions? Contact <mailto:finland@techcode.com>
