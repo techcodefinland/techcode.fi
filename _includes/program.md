@@ -33,6 +33,4 @@ Program starts September 25th 2017.
 
 More detailed program description can be [downloaded from here!](https://1drv.ms/b/s!Anqxi2ndXHfWkAKDGqUxkYVjIqo7)
 
-Interested in joining the program or to get more information? Visit us or [join our events to hear more](http://techcode.fi/#events)
-
- <mailto:finland@techcode.com>
+Interested in joining the program or to get more information? [Visit us](http://techcode.fi/#contact), [join our events](http://techcode.fi/#events) or [contact us](http://techcode.fi/#team) <mailto:finland@techcode.com>
