@@ -1,1 +1,2 @@
  - August 16th 2017 14:00-16:00- [HW and Manufacturing EyeOpener](https://www.eventbrite.com/e/hw-and-manufacturing-eyeopener-tickets-36741654277) by [Techcode Finland](http://techcode.fi), [Hardware Startup Finland](http://www.hardwarestartup.fi/) and [YOKA](http://www.yoka.fi/english.html)
+- August 24th 2017 14:00-16:00- [AI, Drone and Robotics group community event](https://www.eventbrite.com/e/ai-drone-robotics-group-community-event-tickets-36972459622)
