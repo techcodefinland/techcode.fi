@@ -1,1 +1,1 @@
-- August 24th 2017 14:00-16:00- [AI, Drone and Robotics group community event](https://www.eventbrite.com/e/ai-drone-robotics-group-community-event-tickets-36972459622)
+- September 1st 2017 08:30-15:30- [ChinaEye Opener Seminar - Cross Cultural Management in Chinese Context](https://www.eventbrite.co.uk/e/win-in-china-seminar-cross-cultural-management-in-chinese-context-tickets-37029562418)
