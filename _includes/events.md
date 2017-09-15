@@ -1,1 +1,1 @@
-- September 1st 2017 08:30-15:30- [ChinaEye Opener Seminar - Cross Cultural Management in Chinese Context](https://www.eventbrite.co.uk/e/win-in-china-seminar-cross-cultural-management-in-chinese-context-tickets-37029562418)
+- September 27th 2017 09:00-17:00- [ChinaEye Opener Seminar - Chinese Consumer Behavior & Business Opportunities](https://www.eventbrite.co.uk/e/seminar-chinese-consumer-behaviors-business-opportunities-tickets-37659012119#tickets)
