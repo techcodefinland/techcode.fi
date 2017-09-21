@@ -1,1 +1,2 @@
-- September 27th 2017 09:00-17:00- [ChinaEye Opener Seminar - Chinese Consumer Behavior & Business Opportunities](https://www.eventbrite.co.uk/e/seminar-chinese-consumer-behaviors-business-opportunities-tickets-37659012119#tickets)
+- October 2nd and 3rd [Nordic Business Forum Live Stream](https://www.nbforum.com/nbf2017/) by Techcode and Helsinki Business Hub. Techcode Residents and invite only.
+- November 16th 2017 09:00-17:00 [ChinaEye Opener Seminar - Chinese Consumer Behavior & Business Opportunities](https://www.eventbrite.co.uk/e/seminar-chinese-consumer-behaviors-business-opportunities-tickets-37659012119#tickets)
