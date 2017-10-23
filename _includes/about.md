@@ -2,7 +2,8 @@ TechCode expanded its global network to Nordics in the end of 2016 when TechCode
 
 In Helsinki we are building community for ambitious companies who want to grow globally. We provide a supportive and open environment for innovative tech companies and service providers. Our incubator and co-working space is centrally located in Ruoholahti in Helsinki, just next to the metro station.
 
-**Need space for your company or team?** » Join Our Co-Working Space in Ruoholahti, Helsinki   
+**Need space for your company or team?** 
+» Join Our Co-Working Space in Ruoholahti, Helsinki   
 * Need a single seats or a 12-seat private office? > We adapt to your needs!   
 * All you need from office space (own desk, coffee, printing, meeting, rooms, 24/7 access etc.) and more (social community activities, happy hours, events) for competitive price
 
