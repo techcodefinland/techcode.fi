@@ -1,2 +1,3 @@
-- October 2nd and 3rd [Nordic Business Forum Live Stream](https://www.nbforum.com/nbf2017/) by Techcode and Helsinki Business Hub. Techcode Residents and invite only.
-- November 16th 2017 09:00-17:00 [ChinaEye Opener Seminar - Chinese Consumer Behavior & Business Opportunities](https://www.eventbrite.co.uk/e/seminar-chinese-consumer-behaviors-business-opportunities-tickets-37659012119#tickets)
+- November 16th 2017 09:00-17:00 [ChinaEye Opener Seminar - Chinese Consumer Behavior & Business Opportunities](https://www.eventbrite.co.uk/e/seminar-chinese-consumer-behaviors-business-opportunities-tickets-37659012119#tickets) Free for our residents.
+- November 18th - 23th Sino-Europe Summit in China (Shanghai-Jiashan-Nanjing-Beijing). Contact finland@techcode.com for more details.
+- November 21st 14:00-17:00 [Go to China Workshop](https://www.roihu.com/event/go-china-workshop/) by Techcode, FinChi and Kasvun Roihu @ Team Finland House
