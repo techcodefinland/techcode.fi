@@ -1,3 +1,5 @@
-- November 18th - 23th Sino-Europe Summit in China (Shanghai-Jiashan-Nanjing-Beijing). Contact finland@techcode.com for more details.
-- November 21st 14:00-17:00 [Go to China Workshop](https://www.roihu.com/event/go-china-workshop/) by Techcode, FinChi and Kasvun Roihu @ Team Finland House
-- November 22nd 15:00-17:00 - [TechCode OpenDay]
+- January 11th [China Eye Opener Seminar: Boost your online-offline growth through social media](https://www.eventbrite.co.uk/e/seminar-digital-strategies-in-china-tickets-40036538364) by TechCode and CKGSB
+- January 18th [Student Recruitment Fair] by TechCode and EIT Digital. More info coming soon.
+- January 24th 12:30-16:00 [Findability Day](https://www.eventbrite.com/e/findability-day-roadshow-helsinki-tickets-41103470587?aff=techcode) by Findwise, Toughbyte and TechCode
+- January 24th 12:30-16:00 [Hands-on Office365 Findability Improvement Workshop](https://www.eventbrite.com/e/hands-on-office365-findability-improvement-workshop-tickets-41233928791?aff=techcode) by Findwise. Note! Paid event.
+- February 7th-9th [Science & Technology Startup Forum](https://newcohelsinki.fi/fi/science-technology-startup-forum/)
