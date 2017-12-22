@@ -1,4 +1,3 @@
-- December 19th [TechCode pre-xmas party](https://www.facebook.com/events/514597395575817/)
 - January 11th [China Eye Opener Seminar: Boost your online-offline growth through social media](https://www.eventbrite.co.uk/e/seminar-digital-strategies-in-china-tickets-40036538364) by TechCode and CKGSB
 - January 18th [Student Recruitment Fair] by TechCode and EIT Digital. More info coming soon.
 - January 24th 12:30-16:00 [Findability Day](https://www.eventbrite.com/e/findability-day-roadshow-helsinki-tickets-41103470587?aff=techcode) by Findwise, Toughbyte and TechCode
