@@ -17,4 +17,4 @@ Few reasons to work with us
 
 Check our space by having a virtual tour [Virtual tour of Techcode Helsinki](https://my.matterport.com/show/?m=xPpNZKLgY3J)
 
-We are now recruiting teams to our space. [**Apply now**](mailto:finland@techcode.com?subject=Applying%20to%20Techcode)!
+We are now recruiting teams to our space. [**Apply now**](https://goo.gl/forms/v6k23BBmW9Jy6Z1p2)!
