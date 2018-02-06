@@ -1,5 +1,2 @@
-- January 11th [China Eye Opener Seminar: Boost your online-offline growth through social media] - SEMINAR POSTPONED / NEW DATE WILL BE ANNOUNCED SOON! 
-- January 18th [Student Recruitment Fair] by TechCode and EIT Digital. More info coming soon.
-- January 24th 12:30-16:00 [Findability Day](https://www.eventbrite.com/e/findability-day-roadshow-helsinki-tickets-41103470587?aff=techcode) by Findwise, Toughbyte and TechCode
-- January 24th 12:30-16:00 [Hands-on Office365 Findability Improvement Workshop](https://www.eventbrite.com/e/hands-on-office365-findability-improvement-workshop-tickets-41233928791?aff=techcode) by Findwise. Note! Paid event.
 - February 7th-9th [Science & Technology Startup Forum](https://newcohelsinki.fi/fi/science-technology-startup-forum/)
+- February 26th 3pm-6pm [Effective Marketing & Communications in China](https://www.eventbrite.com/e/effective-marketing-communications-in-china-tickets-42713071948) by Nordic Friend
