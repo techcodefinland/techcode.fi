@@ -1,2 +1,2 @@
-- February 7th-9th [Science & Technology Startup Forum](https://newcohelsinki.fi/fi/science-technology-startup-forum/)
-- February 26th 3pm-6pm [Effective Marketing & Communications in China](https://www.eventbrite.com/e/effective-marketing-communications-in-china-tickets-42713071948) by Nordic Friend
+ - February 7th-9th [Science & Technology Startup Forum](https://newcohelsinki.fi/fi/science-technology-startup-forum/)
+- February 26th 3pm-6pm [Seminar: Effective Marketing & Communications in China](https://www.eventbrite.com/e/effective-marketing-communications-in-china-tickets-42713071948) by Nordic Friend
