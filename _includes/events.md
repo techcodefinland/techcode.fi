@@ -1,3 +1,3 @@
 - February 26th 3pm-6pm [Seminar: Effective Marketing & Communications in China](https://www.eventbrite.com/e/effective-marketing-communications-in-china-tickets-42713071948) by Nordic Friend
 -	February 28th 5pm [Seminar: AI Business Value for Senior Management](https://www.eventbrite.com/e/ai-business-value-for-senior-management-tickets-42786303987?aff=es2) by HUB13
-- March 7th [Grow to China Workshop]https://www.roihu.com/services/grow-to-market/grow-to-china/ by Kasvun Roihu & Partners
+- March 7th [Grow to China Workshop](https://www.roihu.com/services/grow-to-market/grow-to-china/) by Kasvun Roihu & Partners
