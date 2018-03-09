@@ -1,3 +1,5 @@
-- February 26th 3pm-6pm [Seminar: Effective Marketing & Communications in China](https://www.eventbrite.com/e/effective-marketing-communications-in-china-tickets-42713071948) by Nordic Friend
--	February 28th 5pm [Seminar: AI Business Value for Senior Management](https://www.eventbrite.com/e/ai-business-value-for-senior-management-tickets-42786303987?aff=es2) by HUB13
-- March 7th [Grow to China Workshop](https://www.roihu.com/services/grow-to-market/grow-to-china/) by Kasvun Roihu & Partners
+-	14th Mar (Wed) 16:30, [Helsinki Fintech Farm Meetup](https://www.eventbrite.com/e/helsinki-fintech-farm-nordic-fintech-meetup-tickets-42529914118?aff=es2) by HUB13
+-	15th Mar (Thu) 17:00, [Practical AI Workshop for Dummies (No Tech XP/Business background)](https://www.eventbrite.com/e/practical-ai-workshop-for-dummies-no-tech-xpbusiness-background-tickets-43475254657?aff=es2) by Panda Training
+-	16th Mar (Fri)  13:30，China International Import Expo (CIIE) Road Show in Finland at OP Financial Group，Gebhardinaukio 1, FI-00013 OP Helsinki.  
+- 21st Mar (Wed) 14:00, [PropTech Connect - Exploring New Business Models in Real Estate](https://www.eventbrite.com/e/proptech-connect-exploring-new-business-models-in-real-estate-tickets-42895600897?aff=erelpanelorg) by HUB13
+- 22nd Mar (Thu) 15:00, [Community Happy Hour by Caleidocons](www.caleidocons.com), Team Development based on data from brain 
