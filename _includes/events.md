@@ -2,4 +2,4 @@
 -	15th Mar (Thu) 17:00, [Practical AI Workshop for Dummies (No Tech XP/Business background)](https://www.eventbrite.com/e/practical-ai-workshop-for-dummies-no-tech-xpbusiness-background-tickets-43475254657?aff=es2) by Panda Training
 -	16th Mar (Fri)  13:30，China International Import Expo (CIIE) Road Show in Finland at OP Financial Group，Gebhardinaukio 1, FI-00013 OP Helsinki.  
 - 21st Mar (Wed) 14:00, [PropTech Connect - Exploring New Business Models in Real Estate](https://www.eventbrite.com/e/proptech-connect-exploring-new-business-models-in-real-estate-tickets-42895600897?aff=erelpanelorg) by HUB13
-- 22nd Mar (Thu) 15:00, [Community Happy Hour by Caleidocons](www.caleidocons.com), Team Development based on data from brain 
+- 22nd Mar (Thu) 15:00, [Community Happy Hour by Caleidocons](https://www.caleidocons.com), Team Development based on data from brain 
